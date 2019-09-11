@@ -1,2 +1,1 @@
-# Simple-Computer-Vision
-# CNN-Intro
+# Convolutions Neural Networks Example
